@@ -1,2 +1,2 @@
 # UUK355_Joao_Correia
-A Small game called The Pasta is Creepy for Android
+Ein kleines Spiel namens The Pasta is Creepy für Android
